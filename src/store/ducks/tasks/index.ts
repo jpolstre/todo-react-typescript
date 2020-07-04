@@ -4,7 +4,7 @@ import { ActionTypes, StateTypes, Task } from './types'
 
 const initTasks = (): Task[] => {
   const tasks:Task[] = []
-  for (let i = 1; i <= 5; i++){
+  for (let i = 1; i <= 100; i++){
     tasks.push({ id: i, name: 'task ' + i, completed: false })
   }
   return tasks
