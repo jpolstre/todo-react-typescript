@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/todo-react-typescript/static/js/main.6aae7982.chunk.js",
+    "main.js.map": "/todo-react-typescript/static/js/main.6aae7982.chunk.js.map",
+    "runtime-main.js": "/todo-react-typescript/static/js/runtime-main.6caf57dc.js",
+    "runtime-main.js.map": "/todo-react-typescript/static/js/runtime-main.6caf57dc.js.map",
+    "static/js/2.c9112715.chunk.js": "/todo-react-typescript/static/js/2.c9112715.chunk.js",
+    "static/js/2.c9112715.chunk.js.map": "/todo-react-typescript/static/js/2.c9112715.chunk.js.map",
+    "index.html": "/todo-react-typescript/index.html",
+    "precache-manifest.197a2b230b5a5dd9418595403a4b7fac.js": "/todo-react-typescript/precache-manifest.197a2b230b5a5dd9418595403a4b7fac.js",
+    "service-worker.js": "/todo-react-typescript/service-worker.js",
+    "static/js/2.c9112715.chunk.js.LICENSE.txt": "/todo-react-typescript/static/js/2.c9112715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6caf57dc.js",
+    "static/js/2.c9112715.chunk.js",
+    "static/js/main.6aae7982.chunk.js"
+  ]
+}
